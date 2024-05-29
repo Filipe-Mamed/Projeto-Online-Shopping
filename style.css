@@ -6,16 +6,16 @@
 }
 
 body{
-    height: 100%;
     width: 100%;
+    height: 100%;
 }
 
 
 
 
 main{
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -65,7 +65,7 @@ img{
 }
 
 .seçao2{
-    width: 50%;
+    width: 50vw;
     flex: 1;
 }
 h1{
@@ -86,12 +86,17 @@ button{
     width: 25%;
     height: 6%;
     border: none;
-    border-radius: 50px;
+    border-radius: 30px;
     color: white;
     background-color: #FF1493;
     margin-top: 30px;
     cursor: pointer;
     margin-top: 5%;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 36px;
+
+    
 }
 
 button:active {
@@ -120,8 +125,8 @@ footer{
 @media screen and (max-width: 900px){
 
     main{
-        width: auto;
-        height: auto;
+        width: 100%;
+        height: 100%;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
