@@ -11,4 +11,4 @@ Se adéqua às telas a partir de 900px.
 
 ## Introdução
 
-<img src="https://github.com/Filipe-Mamed/Projeto-Online-Shopping/blob/main/img/Projeto%20Responsivo%20Online%20Shopping%20(1).png?raw=true" alt="imagem-logo"/>
+<img src="https://github.com/Filipe-Mamed/Projeto-Online-Shopping/blob/main/img/Projeto%20Responsivo%20Online%20Shopping.png?raw=true" alt="imagem-logo"/>
