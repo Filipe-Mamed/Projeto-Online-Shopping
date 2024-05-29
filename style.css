@@ -46,6 +46,14 @@ header{
     text-decoration:none;
 }
 
+.link:active {
+    color: transparent;
+  }
+  
+  .link:hover {
+    opacity: 0.5;
+  }
+
 .seçao1{
     width: 50%;
     flex: 1;
@@ -85,6 +93,14 @@ button{
     cursor: pointer;
     margin-top: 5%;
 }
+
+button:active {
+    color: transparent;
+  }
+  
+  button:hover {
+    opacity: 0.5;
+  }
 
 footer{
     width: 100%;
