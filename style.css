@@ -48,11 +48,11 @@ header{
 
 .link:active {
     color: transparent;
-  }
+}
   
-  .link:hover {
+.link:hover {
     opacity: 0.5;
-  }
+}
 
 .seçao1{
     width: 50%;
@@ -96,11 +96,11 @@ button{
 
 button:active {
     color: transparent;
-  }
+}
   
-  button:hover {
+button:hover {
     opacity: 0.5;
-  }
+}
 
 footer{
     width: 100%;
